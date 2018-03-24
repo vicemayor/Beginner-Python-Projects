@@ -24,4 +24,3 @@ while num!=userguess:
 time.sleep(2)
 print "Got it! You guessed the correct number",num,"after",len(userguesses),"tries!"
 time.sleep(5)
-		
